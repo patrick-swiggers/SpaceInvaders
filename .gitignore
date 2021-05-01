@@ -1,0 +1,8 @@
+build.xml
+manifest.mf
+*.bat
+
+build/
+dist/
+nbproject/
+test/
